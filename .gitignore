@@ -1,0 +1,6 @@
+**/flask/
+**/.idea/
+**/target
+**/*.iml
+counter.txt
+**/.vscode/
